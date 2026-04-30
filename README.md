@@ -57,10 +57,13 @@ Pensamento voltado para soluções
 Uso estratégico de IA no desenvolvimento
 Experiência internacional e adaptação cultural
 📊 Estatísticas do GitHub
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=bielflocos&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielflocos&layout=compact&theme=tokyonight" /> </p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=bielflocos&theme=tokyonight&hide_border=true" />
+</p>
 📫 Contato
 
 📧 Email: heitorcf10@gmail.com
 
 📱 Telefone: +55 61 99461-3752
+
 💼 LinkedIn: www.linkedin.com/in/heitorcarvalhoferreira
