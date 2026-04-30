@@ -49,7 +49,8 @@ Desenvolvimento Web (Frontend e Backend)
 Node.js e estrutura de sistemas
 Banco de dados (SQLite3)
 Cibersegurança
-Engenharia de prompts e uso de IA
+Engenharia de prompts
+Técnico em Ciência de Dados e uso de IA
 🌟 Diferenciais
 Facilidade em aprender novas tecnologias
 Foco em projetos reais
@@ -61,6 +62,7 @@ Experiência internacional e adaptação cultural
   <img height="170" src="https://streak-stats.demolab.com?user=bielflocos&theme=tokyonight&hide_border=true" />
 </p>
 📫 Contato
+
 
 📧 Email: heitorcf10@gmail.com
 
