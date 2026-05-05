@@ -1,48 +1,36 @@
-<!-- HEADER SIMPLES E PROFISSIONAL -->
+<!-- HEADER MAIS IMPACTANTE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e3a8a&height=160&section=header&text=Heitor%20Carvalho%20Ferreira&fontColor=ffffff&fontSize=34&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,100:1e3a8a&height=200&section=header&text=Heitor%20Carvalho%20Ferreira&fontColor=38bdf8&fontSize=40&animation=twinkling" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- GIF DEV (ESTILO PROGRAMADOR) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cybersecurity;Artificial+Intelligence;Building+Real+World+Projects;Co-founder+of+Digital+Solutions" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px"/>
 </p>
 
-<!-- BADGES -->
+<!-- TYPING -->
 
 <p align="center">
-  <a href="mailto:heitorcf10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/heitorcarvalhoferreira">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://ferre1ra10.github.io/site-heisuscode/">
-    <img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cybersecurity;Artificial+Intelligence;Building+Real+Projects;Future+Tech+Engineer" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante da **Escola do Futuro de Goiás** e participante do programa **Jornada para o Futuro**, com foco em:
-
-* 💻 Desenvolvimento Web
-* 🔐 Cibersegurança
-* 🤖 Inteligência Artificial
+Sou estudante da **Escola do Futuro de Goiás**, participante do programa **Jornada para o Futuro**, com foco em tecnologia e desenvolvimento de sistemas.
 
 🌍 Experiência internacional em Londres
 🚀 Cofundador de uma empresa digital
 
-Atuo criando soluções como:
+💡 Trabalho com:
 
-* Sistemas web
-* APIs
+* Desenvolvimento Web
+* APIs e sistemas
 * Automação de processos
-* Soluções digitais para empresas
+* Soluções inteligentes com IA
 
 ---
 
@@ -55,24 +43,8 @@ Atuo criando soluções como:
 <p align="center">
   <img src="https://img.shields.io/badge/APIs-1e3a8a?style=for-the-badge">
   <img src="https://img.shields.io/badge/Database-SQLite-1e3a8a?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-020617?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cloud-1e3a8a?style=for-the-badge">
-</p>
-
----
-
-## 🌐 Portfólio
-
-<p align="center">
-  <a href="https://ferre1ra10.github.io/site-heisuscode/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferre1ra10&repo=site-heisuscode&theme=tokyonight&hide_border=true">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ferre1ra10.github.io/site-heisuscode/">
-    <b>🔗 Acessar Portfólio</b>
-  </a>
 </p>
 
 ---
@@ -88,11 +60,10 @@ Atuo criando soluções como:
 
 ---
 
-## 📊 GitHub Stats
+<!-- IMAGEM EXTRA ESTILO DEV -->
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ferre1ra10&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferre1ra10&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
 </p>
 
 ---
@@ -100,19 +71,22 @@ Atuo criando soluções como:
 ## 📫 Contato
 
 <p align="center">
-  📧 heitorcf10@gmail.com <br>
-  📱 +55 61 99461-3752 <br>
-  💼 linkedin.com/in/heitorcarvalhoferreira
+  <a href="mailto:heitorcf10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=38bdf8">
+  </a>
+  <a href="https://linkedin.com/in/heitorcarvalhoferreira">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 <b>Construindo soluções reais com tecnologia</b>
+  💻 <b>“Code. Create. Solve.”</b>
 </p>
 
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:020617&height=120&section=footer"/>
 </p>
