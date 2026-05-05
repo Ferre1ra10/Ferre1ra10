@@ -1,57 +1,52 @@
-<!-- HEADER CYBERPUNK -->
+<!-- HEADER COM NOME “CODANDO” -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:2b2b2b&height=200&section=header&text=Heitor%20Carvalho%20Ferreira&fontColor=ffffff&fontSize=40&animation=blinking" />
-</p>
-
-<!-- TYPING -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cybersecurity;Artificial+Intelligence;Code+%7C+Create+%7C+Solve;Future+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=34&center=true&vCenter=true&width=900&lines=Heitor+Carvalho+Ferreira;Full+Stack+Developer;Cybersecurity+%26+AI;Coding+real+solutions" />
 </p>
 
 ---
 
-<!-- VISUAL CODER (GRID MATRIX STYLE) -->
+<!-- SUB HEADER MINIMALISTA -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferre1ra10&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=120&section=header&text=SYSTEM%20INITIALIZED&fontColor=ffffff&fontSize=22&animation=fadeIn" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 ABOUT ME
 
-Sou estudante da **Escola do Futuro de Goiás**, participante do programa **Jornada para o Futuro**, focado em desenvolvimento de sistemas e tecnologia.
+Estudante de tecnologia na **Escola do Futuro de Goiás**, participante do programa **Jornada para o Futuro**.
 
 🌍 Experiência internacional em Londres
-🚀 Cofundador de uma empresa digital
+🚀 Cofundador de empresa digital
 
-💻 Atuação:
+Foco em:
 
 * Desenvolvimento Web
-* APIs e sistemas
+* Sistemas escaláveis
+* APIs
 * Automação
 * Inteligência Artificial
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Database-SQLite-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-SQLite-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-111111?style=for-the-badge">
 </p>
 
 ---
 
-## 🎮 Contributions Game
+## 🎮 CODER ACTIVITY
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -59,25 +54,7 @@ Sou estudante da **Escola do Futuro de Goiás**, participante do programa **Jorn
 
 ---
 
-## 🚀 Projetos
-
-```txt
-[ SYSTEMS ]
-- Midia Indoor
-- Sentinela
-- Web Platforms
-- APIs
-- Marketing System
-
-[ FOCUS ]
-- Automation
-- Scalable Systems
-- AI Integration
-```
-
----
-
-## 📫 Contato
+## 📫 CONTACT
 
 <p align="center">
   <a href="mailto:heitorcf10@gmail.com">
@@ -91,11 +68,11 @@ Sou estudante da **Escola do Futuro de Goiás**, participante do programa **Jorn
 ---
 
 <p align="center">
-  ⚡ <b>“Code is where ideas become reality.”</b>
+  🧠 <b>“Code is thinking made visible.”</b>
 </p>
 
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2b2b2b,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=100&section=footer"/>
 </p>
