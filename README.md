@@ -1,61 +1,56 @@
-<!-- NOME CORRIGIDO (SEM BUG) -->
+<!-- NOME (SEM IMAGEM, SÓ TEXTO DESTACADO) -->
+
+<h1 align="center">Heitor Carvalho Ferreira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=36&center=true&vCenter=true&width=900&lines=Heitor+Carvalho+Ferreira" />
+  <b>Full Stack Developer | Cybersecurity | Artificial Intelligence</b>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-👨‍💻 Sou estudante da **Escola do Futuro de Goiás**, atualmente participando do programa **Jornada para o Futuro**, com foco em tecnologia, inovação e desenvolvimento de sistemas reais.
+👨‍💻 Sou estudante da **Escola do Futuro de Goiás**, participante do programa **Jornada para o Futuro**, com foco em tecnologia e desenvolvimento de sistemas reais.
 
-🌍 Tive uma experiência internacional em Londres (Inglaterra), onde desenvolvi habilidades de comunicação, adaptação cultural e visão global sobre tecnologia.
+🌍 Tenho experiência internacional em Londres (Inglaterra), o que ampliou minha visão sobre tecnologia, comunicação e inovação.
 
-🚀 Também sou cofundador de uma empresa digital, onde atuo diretamente no desenvolvimento de soluções tecnológicas para web, automação e presença digital de negócios.
+🚀 Sou cofundador de uma empresa digital, atuando no desenvolvimento de soluções web e sistemas para negócios.
 
-💡 Meu objetivo é construir sistemas que resolvem problemas reais e gerar impacto através da tecnologia.
+💡 Meu objetivo é construir sistemas eficientes que resolvem problemas reais usando tecnologia.
 
 ---
 
 ## ⚙️ Tecnologias
 
-💻 Tenho experiência em desenvolvimento web completo com **HTML, CSS, JavaScript e TypeScript**, criando interfaces modernas e responsivas.
-
-⚛️ No frontend utilizo **React**, focando em performance e componentes reutilizáveis.
-
-🟢 No backend trabalho com **Node.js**, criando APIs e sistemas escaláveis.
-
-🐍 Utilizo **Python** para automações, lógica de sistemas e estudos em inteligência artificial.
-
-🗄️ Tenho conhecimento em **banco de dados SQLite**, estruturando e organizando dados de forma eficiente.
-
-🔐 Também estudo **cibersegurança**, focando na proteção de sistemas e boas práticas digitais.
-
-☁️ Possuo noções de **cloud computing**, entendendo como sistemas são hospedados e escalados.
-
-🔗 Trabalho com **APIs**, conectando sistemas e criando integrações inteligentes.
+💻 Desenvolvimento Web com **HTML, CSS, JavaScript e TypeScript**
+⚛️ Frontend com **React**, focado em interfaces modernas e responsivas
+🟢 Backend com **Node.js**, criando APIs e sistemas escaláveis
+🐍 Uso de **Python** para automações, lógica e estudos de IA
+🗄️ Banco de dados com **SQLite**
+🔐 Estudos em **Cibersegurança**
+☁️ Noções de **Cloud Computing**
+🔗 Integração de sistemas com **APIs**
 
 ---
 
 ## 🎯 Áreas de atuação
 
-📱 Desenvolvimento de sistemas web completos e funcionais
-🤖 Aplicação de inteligência artificial em projetos reais
-🔐 Segurança digital e proteção de sistemas
-⚙️ Automação de processos e tarefas
-🌐 Integração de APIs e serviços
+📱 Desenvolvimento de sistemas web completos
+🤖 Inteligência artificial aplicada a projetos
+🔐 Segurança digital e boas práticas
+⚙️ Automação de processos
+🌐 Integração entre sistemas e APIs
 
 ---
 
 ## 📫 Contato
 
-📧 Email: **[heitorcf10@gmail.com](mailto:heitorcf10@gmail.com)**
-💼 LinkedIn: linkedin.com/in/heitorcarvalhoferreira
-📱 Telefone: +55 61 99461-3752
+📧 **Email:** [heitorcf10@gmail.com](mailto:heitorcf10@gmail.com)
+💼 **LinkedIn:** linkedin.com/in/heitorcarvalhoferreira
+📱 **Telefone:** +55 61 99461-3752
 
 ---
 
 <p align="center">
-  🚀 <b>Focado em desenvolver soluções tecnológicas que geram impacto real</b>
+  🚀 <b>Focado em criar soluções tecnológicas que geram impacto real</b>
 </p>
