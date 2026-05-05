@@ -1,13 +1,13 @@
-<!-- HEADER -->
+<!-- HEADER SIMPLES E PROFISSIONAL -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Heitor%20Carvalho%20Ferreira&fontColor=ffffff&fontSize=32&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e3a8a&height=160&section=header&text=Heitor%20Carvalho%20Ferreira&fontColor=ffffff&fontSize=34&animation=fadeIn" />
 </p>
 
-<!-- TYPING -->
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity;Artificial+Intelligence;Building+real+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cybersecurity;Artificial+Intelligence;Building+Real+World+Projects;Co-founder+of+Digital+Solutions" />
 </p>
 
 <!-- BADGES -->
@@ -20,50 +20,43 @@
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://ferre1ra10.github.io/site-heisuscode/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-Sou estudante da **Escola do Futuro de Goiás**, participante do programa **Jornada para o Futuro**, com foco em desenvolvimento de sistemas, cibersegurança e inteligência artificial.
+Sou estudante da **Escola do Futuro de Goiás** e participante do programa **Jornada para o Futuro**, com foco em:
 
-🌍 Experiência internacional em Londres (Inglaterra)
+* 💻 Desenvolvimento Web
+* 🔐 Cibersegurança
+* 🤖 Inteligência Artificial
+
+🌍 Experiência internacional em Londres
 🚀 Cofundador de uma empresa digital
 
-Atuo com:
+Atuo criando soluções como:
 
-* Desenvolvimento Web
-* Criação de sistemas
+* Sistemas web
+* APIs
 * Automação de processos
-* Soluções para empresas
+* Soluções digitais para empresas
 
 ---
 
-## 💻 Terminal
-
-```bash
-> whoami
-Heitor Carvalho Ferreira
-
-> role
-Full Stack Developer
-
-> focus
-Web | Cybersecurity | AI
-
-> stack
-HTML CSS JS TS React Node Python
-```
-
----
-
-## ⚙️ Tech Stack
+## ⚙️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/APIs-1e3a8a?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-SQLite-1e3a8a?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-1e3a8a?style=for-the-badge">
 </p>
 
 ---
@@ -73,6 +66,12 @@ HTML CSS JS TS React Node Python
 <p align="center">
   <a href="https://ferre1ra10.github.io/site-heisuscode/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferre1ra10&repo=site-heisuscode&theme=tokyonight&hide_border=true">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ferre1ra10.github.io/site-heisuscode/">
+    <b>🔗 Acessar Portfólio</b>
   </a>
 </p>
 
@@ -92,22 +91,24 @@ HTML CSS JS TS React Node Python
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ferre1ra10&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferre1ra10&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ferre1ra10&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferre1ra10&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-* 📧 [heitorcf10@gmail.com](mailto:heitorcf10@gmail.com)
-* 📱 +55 61 99461-3752
-* 💼 linkedin.com/in/heitorcarvalhoferreira
+<p align="center">
+  📧 heitorcf10@gmail.com <br>
+  📱 +55 61 99461-3752 <br>
+  💼 linkedin.com/in/heitorcarvalhoferreira
+</p>
 
 ---
 
 <p align="center">
-  <b>Construindo sistemas que resolvem problemas reais 🚀</b>
+  💡 <b>Construindo soluções reais com tecnologia</b>
 </p>
 
 <!-- FOOTER -->
