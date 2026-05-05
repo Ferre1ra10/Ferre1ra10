@@ -1,15 +1,15 @@
-<!-- HEADER COM NOME “CODANDO” -->
+<!-- HEADER COM NOME DIGITANDO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=34&center=true&vCenter=true&width=900&lines=Heitor+Carvalho+Ferreira;Full+Stack+Developer;Cybersecurity+%26+AI;Coding+real+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=34&center=true&vCenter=true&width=900&lines=Heitor+Carvalho+Ferreira;Full+Stack+Developer;Cybersecurity+%26+AI;Building+real+systems" />
 </p>
 
 ---
 
-<!-- SUB HEADER MINIMALISTA -->
+<!-- SEPARADOR VISUAL (ESTILO TECH) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=120&section=header&text=SYSTEM%20INITIALIZED&fontColor=ffffff&fontSize=22&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" />
 </p>
 
 ---
@@ -24,10 +24,17 @@ Estudante de tecnologia na **Escola do Futuro de Goiás**, participante do progr
 Foco em:
 
 * Desenvolvimento Web
-* Sistemas escaláveis
-* APIs
+* APIs e sistemas
 * Automação
 * Inteligência Artificial
+
+---
+
+<!-- SEPARADOR VISUAL -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" />
+</p>
 
 ---
 
@@ -46,10 +53,34 @@ Foco em:
 
 ---
 
+<!-- MINI “JOGO VISUAL” -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- SEPARADOR ESTILO GAME -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
+---
+
 ## 🎮 CODER ACTIVITY
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- SEPARADOR FINAL -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" />
 </p>
 
 ---
@@ -68,11 +99,5 @@ Foco em:
 ---
 
 <p align="center">
-  🧠 <b>“Code is thinking made visible.”</b>
-</p>
-
-<!-- FOOTER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=100&section=footer"/>
+  🧠 <b>“Code is the closest thing to magic.”</b>
 </p>
