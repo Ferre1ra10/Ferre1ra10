@@ -14,7 +14,7 @@
 
 🌍 Tenho experiência internacional em Londres (Inglaterra), o que ampliou minha visão sobre tecnologia, comunicação e inovação.
 
-🚀 Sou fundador de uma empresa digital, atuando no desenvolvimento de soluções web e sistemas para negócios.
+🚀 Sou fundador de uma empresa digital com o nome de HeisusCode, atuando no desenvolvimento de soluções web e sistemas para negócios.
 
 💡 Meu objetivo é construir sistemas eficientes que resolvem problemas reais usando tecnologia.
 
