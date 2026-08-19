@@ -85,12 +85,12 @@
 <!-- TROQUE "SEU_USUARIO" pelo seu username do GitHub nas 3 URLs abaixo -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Linguagens mais usadas" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferre1ra10&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Estatísticas do GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferre1ra10&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Linguagens mais usadas" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="Troféus do GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=ferre1ra10&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="Troféus do GitHub">
 </p>
 
 ---
