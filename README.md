@@ -24,6 +24,9 @@
 | 🎓 | Estudante da **Escola do Futuro de Goiás**, no programa **Jornada para o Futuro** |
 | 🚀 | Fundador da **HeisusCode** — soluções web e sistemas para negócios               |
 | 🌍 | Experiência internacional em **Londres, Inglaterra**                             |
+| 🇬🇧 | Intercâmbio na **University of Sussex** (Falmer) pelo **Goiás pelo Mundo** — certificado de **inglês intermediário** |
+| 🏆 | Competidor no **Campeonato de Inteligência Artificial do CEIA Goiás**            |
+| 📍 | Valparaíso de Goiás – GO · aberto a trabalho **remoto, híbrido ou presencial**   |
 | 🎯 | Foco em sistemas reais, IA aplicada e segurança digital                          |
 
 ---
@@ -42,8 +45,17 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **Estudando**
 
@@ -58,6 +70,7 @@
 | Área             | O que eu faço                                          |
 | :--------------- | :----------------------------------------------------- |
 | 🌐 **Web**       | Sistemas web completos, do frontend à API               |
+| 📊 **Dados**     | Limpeza, tratamento e análise de dados com Python, Pandas e SQL |
 | 🤖 **IA**        | Inteligência artificial aplicada a projetos reais       |
 | 🔐 **Segurança** | Segurança digital e boas práticas de desenvolvimento    |
 | ⚙️ **Automação** | Automação de processos e integração entre sistemas      |
@@ -69,6 +82,7 @@
 | Projeto           | Descrição                                        | Stack               |
 | :---------------- | :----------------------------------------------- | :------------------ |
 | **HeisusCode**    | Desenvolvimento web e cibersegurança para negócios | React · Node.js     |
+| **Sistema Hospitalar** | Gestão hospitalar com agendamento e módulo financeiro (TCC — em desenvolvimento) | Full Stack |
 | **MoneyControl**  | Aplicação de controle financeiro pessoal           | React · TypeScript  |
 | **JARVIS**        | Assistente de IA personalizado                     | Python              |
 
@@ -76,6 +90,17 @@
   <a href="https://github.com/Ferre1ra10?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"></a>
   <img src="https://img.shields.io/github/followers/Ferre1ra10?style=for-the-badge&logo=github&label=Seguidores&labelColor=181717&color=7C5CFF" alt="Seguidores">
 </p>
+
+---
+
+## Formação e certificações
+
+| Formação                                                                 | Conclusão   |
+| :----------------------------------------------------------------------- | :---------- |
+| Técnico em **Desenvolvimento Web (Full Stack)**, **Cibersegurança** e **Segurança e Hospedagem** — Escola do Futuro de Goiás | 20/10/2026 |
+| Técnico em **Ciência de Dados** — Escola do Futuro de Goiás               | 01/06/2027  |
+| **Inglês intermediário** — University of Sussex, Falmer (Inglaterra)      | Concluído   |
+| **Certificações DIO** em programação e desenvolvimento                    | Disponíveis no LinkedIn |
 
 ---
 
