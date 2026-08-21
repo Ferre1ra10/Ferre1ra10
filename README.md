@@ -1,196 +1,109 @@
-# 👨‍💻 Heitor Carvalho Ferreira
+<h1 align="center">Heitor Carvalho Ferreira</h1>
 
-**Full Stack Developer • Data Science • Cybersecurity**
+<p align="center">
+  <b>Full Stack Developer</b> &nbsp;·&nbsp; <b>Cybersecurity</b> &nbsp;·&nbsp; <b>Artificial Intelligence</b>
+</p>
 
----
+<p align="center">
+  Construindo sistemas eficientes que resolvem problemas reais.
+</p>
 
-## 🚀 ABOUT ME
-
-I am a Full Stack Developer specializing in Web Development, Cybersecurity, and Data Science. I work at **HeisusCode** developing and delivering production-grade systems for real clients — not just classroom exercises.
-
-**International Experience:** Exchange student at University of Sussex (UK) through the "Goiás pelo Mundo" program, with intermediate English certification and practical experience collaborating with international teams.
-
----
-
-## 🎯 WHAT I DELIVER
-
-### **💻 End-to-End Web Solutions**
-Founder of HeisusCode, where I develop and sell web systems and solutions. Complete project lifecycle: requirements gathering with clients, development, hosting, and final delivery.
-
-### **📊 Data Analytics & Science**
-Data cleaning, treatment, and analysis using Python, Pandas, and SQL. Transform raw data into actionable insights for decision-making.
-
-### **🏥 Complex Systems Development**
-Currently developing a Hospital Management System (TCC - Technical Conclusion Course) with appointment scheduling and financial modules. Full-stack implementation with security best practices.
-
-### **🤖 AI & Automation**
-Participant in CEIA Goiás AI Championship, developing AI solutions in Python under real technical requirements and time constraints.
-
-### **🔐 Digital Security**
-Best practices in digital security, secure hosting, version control with Git, and security-first architecture implemented in all projects.
+<p align="center">
+  <a href="https://linkedin.com/in/heitorcarvalhoferreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:heitorcf10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/5561994613752"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://heisuscode.dev"><img src="https://img.shields.io/badge/heisuscode.dev-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
+</p>
 
 ---
 
-## ⚡ TECH STACK
+## Sobre mim
 
-**Frontend:**
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-
-**Backend:**
-- Node.js
-- Python
-- SQL
-- SQLite
-- REST APIs
-
-**Data Science:**
-- Python
-- Pandas
-- Data Analysis
-
-**Tools & Others:**
-- Git
-- GitHub
-- Linux
-- Secure Hosting
+|    |                                                                                |
+| :- | :----------------------------------------------------------------------------- |
+| 🎓 | Estudante da **Escola do Futuro de Goiás**, no programa **Jornada para o Futuro** |
+| 🚀 | Fundador da **HeisusCode** — soluções web e sistemas para negócios               |
+| 🌍 | Experiência internacional em **Londres, Inglaterra**                             |
+| 🇬🇧 | Intercâmbio na **University of Sussex** (Falmer) pelo **Goiás pelo Mundo** — certificado de **inglês intermediário** |
+| 🏆 | Competidor no **Campeonato de Inteligência Artificial do CEIA Goiás**            |
+| 📍 | Valparaíso de Goiás – GO · aberto a trabalho **remoto, híbrido ou presencial**   |
+| 🎯 | Foco em sistemas reais, IA aplicada e segurança digital                          |
 
 ---
 
-## 🌍 INTERNATIONAL EXPERIENCE
+## Tecnologias
 
-**University of Sussex Exchange Student**
-- Program: "Goiás pelo Mundo" (Goiás Around the World)
-- Location: Falmer, England
-- Intensive English Course: 60 hours at St Andrew's College Language Schools
-- Certification: Intermediate English level
-- Experience: Collaboration with international teams
+**Frontend**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-## 📂 FEATURED PROJECTS
+**Backend & Dados**
 
-### **HeisusCode** 
-Enterprise web and cybersecurity solutions. Building production systems for real clients.
-- **Tech Stack:** React, Node.js, TypeScript, Python
-- **GitHub:** [github.com/Ferre1ra10](https://github.com/Ferre1ra10)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-### **Hospital Management System**
-Complete healthcare platform with consultation scheduling and financial modules.
-- **Status:** In Development (TCC)
-- **Tech Stack:** React, Node.js, SQL, APIs REST
-- **Features:** Appointment scheduling, financial management, secure architecture
+**Ferramentas**
 
-### **MoneyControl**
-Personal finance management application with data visualization and tracking.
-- **Tech Stack:** React, Python, SQL
-- **Features:** Income/expense tracking, data analysis, visualization
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### **JARVIS**
-Custom AI Assistant for automation and intelligence.
-- **Tech Stack:** Python, AI/ML, Automation
-- **Features:** AI-powered solutions, automation workflows
+**Estudando**
+
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-000000?style=flat-square&logo=hackthebox&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## 🎓 EDUCATION & CERTIFICATIONS
+## Áreas de atuação
 
-**Technical Diploma:** Web Development, Cybersecurity & Data Hosting
-- School: Escola do Futuro de Goiás (Future School of Goiás)
-- Expected Completion: October 2026
-
-**Technical Diploma:** Data Science
-- School: Escola do Futuro de Goiás
-- Expected Completion: June 2027
-
-**English Language Certification**
-- Institution: St Andrew's College Language Schools, University of Sussex
-- Program: 60-hour intensive course
-- Certification: Intermediate English level
-- Program: Goiás pelo Mundo
-
-**AI Championship**
-- Participant: CEIA Goiás AI Championship
-- Achievement: Developed AI solutions under technical requirements
+| Área             | O que eu faço                                          |
+| :--------------- | :----------------------------------------------------- |
+| 🌐 **Web**       | Sistemas web completos, do frontend à API               |
+| 📊 **Dados**     | Limpeza, tratamento e análise de dados com Python, Pandas e SQL |
+| 🤖 **IA**        | Inteligência artificial aplicada a projetos reais       |
+| 🔐 **Segurança** | Segurança digital e boas práticas de desenvolvimento    |
+| ⚙️ **Automação** | Automação de processos e integração entre sistemas      |
 
 ---
 
-## 📊 SKILLS
+## Projetos em destaque
 
-### **Languages & Frameworks**
-JavaScript · TypeScript · React · Node.js · Python · SQL
+| Projeto           | Descrição                                        | Stack               |
+| :---------------- | :----------------------------------------------- | :------------------ |
+| **HeisusCode**    | Desenvolvimento web e cibersegurança para negócios | React · Node.js     |
+| **Sistema Hospitalar** | Gestão hospitalar com agendamento e módulo financeiro (TCC — em desenvolvimento) | Full Stack |
+| **MoneyControl**  | Aplicação de controle financeiro pessoal           | React · TypeScript  |
+| **JARVIS**        | Assistente de IA personalizado                     | Python              |
 
-### **Development**
-Full Stack Development · Frontend Development · Backend Development · REST APIs · API Development
-
-### **Data & Analysis**
-Data Science · Data Analysis · Python · Pandas · SQL
-
-### **Security & Infrastructure**
-Cybersecurity · Information Security · Cloud Computing · Secure Hosting
-
-### **Tools & Practices**
-Git · GitHub · Linux · Agile Methodologies · Problem Solving · UI/UX Design
-
-### **Soft Skills**
-Leadership · Communication · Intercultural Communication · Presentation Skills · English
+<p align="center">
+  <a href="https://github.com/Ferre1ra10?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"></a>
+  <img src="https://img.shields.io/github/followers/Ferre1ra10?style=for-the-badge&logo=github&label=Seguidores&labelColor=181717&color=7C5CFF" alt="Seguidores">
+</p>
 
 ---
 
-## 💼 PROFESSIONAL FOCUS
+## Formação e certificações
 
-- Building scalable web applications
-- Data-driven decision making
-- Security-first architecture
-- International collaboration
-- Real-world problem solving
-
----
-
-## 🌐 OPEN TO OPPORTUNITIES
-
-**Available for:**
-- Remote positions (USD/EUR/GBP preferred)
-- Full Stack Developer roles
-- Data Scientist positions
-- Security Analyst opportunities
-- Hybrid or On-site positions
-
-**Based in:** Brazil (UTC-3 timezone)
-**Flexible with:** International timezones and global teams
+| Formação                                                                 | Conclusão   |
+| :----------------------------------------------------------------------- | :---------- |
+| Técnico em **Desenvolvimento Web (Full Stack)**, **Cibersegurança** e **Segurança e Hospedagem** — Escola do Futuro de Goiás | 20/10/2026 |
+| Técnico em **Ciência de Dados** — Escola do Futuro de Goiás               | 01/06/2027  |
+| **Inglês intermediário** — University of Sussex, Falmer (Inglaterra)      | Concluído   |
+| **Certificações DIO** em programação e desenvolvimento                    | Disponíveis no LinkedIn |
 
 ---
 
-## 📫 CONTACT & LINKS
-
-- **GitHub:** [github.com/Ferre1ra10](https://github.com/Ferre1ra10)
-- **Website:** [heisuscode.dev](https://heisuscode.dev)
-- **Email:** [heitorcf10@gmail.com](mailto:heitorcf10@gmail.com)
-- **LinkedIn:** [linkedin.com/in/heitorcarvalhoferreira](https://linkedin.com/in/heitorcarvalhoferreira)
-
----
-
-## 🚀 LET'S BUILD SOMETHING GREAT
-
-I'm passionate about creating solutions that matter. Whether it's web development, data analysis, or security — let's collaborate!
-
-**Open to discussions about remote opportunities, technical projects, or professional growth.**
-
-Feel free to reach out! 🤝
-
----
-
-## 📊 GitHub Stats
-
-![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20TypeScript-blue)
-![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Node.js-green)
-![Focus](https://img.shields.io/badge/Focus-FullStack%20%7C%20DataScience%20%7C%20Security-orange)
-
----
-
-**Last Updated:** August 2026
-
-✨ **Building code. Solving problems. Making impact.** ✨
+<p align="center">
+  <sub>Focado em criar soluções tecnológicas que geram impacto real.</sub>
+</p>
