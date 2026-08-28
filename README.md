@@ -32,8 +32,9 @@ Olá! Meu nome é **Heitor Carvalho Ferreira**. Sou participante do programa **J
 Realizei um intercâmbio acadêmico na Inglaterra, na **University of Sussex**, com certificação de **inglês intermediário**, e atualmente busco minha primeira oportunidade na área de tecnologia.
 
 ```yaml
-foco:      [ sistemas reais, IA aplicada, segurança digital ]
-atuação:   [ frontend, back-end & APIs, dados, automação ]
+foco:      [ sistemas reais, ciência de dados, IA aplicada, segurança digital ]
+atuação:   [ frontend, back-end & APIs, análise de dados, automação ]
+dados:     [ Python, Pandas, SQL, visualização e dashboards ]
 objetivo:  primeira oportunidade em tecnologia
 ```
 
@@ -43,15 +44,13 @@ objetivo:  primeira oportunidade em tecnologia
 
 ## 🧭 Áreas de atuação
 
-<table width="100%">
-  <tr>
-    <td width="20%" align="center"><h3>🌐</h3><strong>Web</strong><br><sub>Sistemas completos,<br>do frontend à API</sub></td>
-    <td width="20%" align="center"><h3>📊</h3><strong>Dados</strong><br><sub>Limpeza, tratamento<br>e análise</sub></td>
-    <td width="20%" align="center"><h3>🤖</h3><strong>IA</strong><br><sub>Inteligência artificial<br>aplicada a projetos</sub></td>
-    <td width="20%" align="center"><h3>🔐</h3><strong>Segurança</strong><br><sub>Boas práticas e<br>segurança digital</sub></td>
-    <td width="20%" align="center"><h3>⚙️</h3><strong>Automação</strong><br><sub>Processos e integração<br>de sistemas</sub></td>
-  </tr>
-</table>
+| Área | O que eu faço |
+| :--- | :--- |
+| 🌐 **Desenvolvimento Web** | Sistemas web completos, do frontend à API |
+| 📊 **Ciência de Dados** | Coleta, limpeza e tratamento de bases, análise exploratória e dashboards com Python, Pandas e SQL |
+| 🤖 **Inteligência Artificial** | IA aplicada a projetos reais, com apoio de modelos e automação inteligente |
+| 🔐 **Cibersegurança** | Segurança digital e boas práticas de desenvolvimento |
+| ⚙️ **Automação** | Automação de processos e integração entre sistemas |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%" />
 
