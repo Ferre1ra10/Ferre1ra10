@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" src="A.png" alt="Ilustração do Setup" width="420"/>
+<img align="right" src="assets/A.png" alt="Ilustração do Setup" width="420"/>
 
 ### 👨‍💻 Sobre
 
@@ -83,33 +83,25 @@ Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês Intermediário`, `Tecnolo
 Local: [Inglaterra]()
 <br><br><br>
 
-[<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
+[<img align="left" height="94px" alt="Escola do Futuro" src="assets/efg.png"/>](#)
 **Técnico em Desenvolvimento Web e Cibersegurança** <br>
 [**Escola do Futuro de Goiás**](#) • Cursando <br>
 Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de Programação`<br>
 Projetos em destaque: [HeisusCode]()
 <br><br><br>
 
-[<img align="left" height="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
+[<img align="left" height="94px" alt="DIO" src="assets/DIO.png"/>](https://www.dio.me/)
 **Bootcamp** <br>
 [**DIO**](https://www.dio.me/) • Formação <br>
 Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
 Projetos em destaque: [Certificações no LinkedIn]()
 <br><br><br>
 
-[<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
+[<img align="left" height="94px" alt="Escola do Futuro" src="assets/efg.png"/>](#)
 **Técnico em Ciência de Dados** <br>
 [**Escola do Futuro de Goiás**](#) • Cursando <br>
 Foco: `Python`, `Pandas`, `SQL`, `Análise e Tratamento de Dados`<br>
 Projetos em destaque: [Dashboards e Projetos de Gestão de Dados]()
 <br><br><br>
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferre1ra10&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
-</div>
-
-<br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Linha colorida" width="100%" />
