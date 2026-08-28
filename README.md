@@ -1,22 +1,27 @@
 <div align="center">
 
+<h1>Heitor Carvalho Ferreira</h1>
+
+<p>
+  <strong>Full Stack &nbsp;·&nbsp; Cibersegurança &nbsp;·&nbsp; Ciência de Dados</strong>
+</p>
+
+<p>
+  Estudante da Escola do Futuro de Goiás &nbsp;·&nbsp; Fundador da heisuscode<br>
+  <em>Construindo sistemas eficientes que resolvem problemas reais.</em>
+</p>
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=7C5CFF&center=true&vCenter=true&width=750&height=55&lines=Heitor+Carvalho+Ferreira;Full+Stack+%C2%B7+Ciberseguran%C3%A7a;Full+Stack+%C2%B7+Ci%C3%AAncia+de+Dados" alt="Heitor Carvalho Ferreira" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=680&height=40&lines=console.log(%22Estudante+da+Escola+do+Futuro+de+Goi%C3%A1s%22);console.log(%22Fundador+da+heisuscode%22);console.log(%22Sistemas+eficientes+que+resolvem+problemas+reais%22)" alt="Typing" />
-
-<br><br>
-
-<a href="mailto:heitorcf10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email" /></a>
+<a href="mailto:heitorcf10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/heitorcarvalhoferreira"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/heitorcarvalhoferreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://wa.me/5561994613752"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" alt="WhatsApp" /></a>
+<a href="https://wa.me/5561994613752"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" alt="WhatsApp" /></a>
 &nbsp;
-<a href="https://heisuscode.dev"><img src="https://img.shields.io/badge/HEISUSCODE.DEV-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Site" /></a>
+<a href="https://heisuscode.dev"><img src="https://img.shields.io/badge/heisuscode.dev-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Site" /></a>
 &nbsp;
-<a href="https://github.com/Ferre1ra10"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" /></a>
+<a href="https://github.com/Ferre1ra10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" /></a>
 
 <br><br>
 
