@@ -1,23 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7C5CFF&height=180&section=header&text=Heitor%20Carvalho%20Ferreira&fontColor=ffffff&fontSize=38&fontAlignY=34&desc=Full%20Stack%20%C2%B7%20Cibersegurança%20%C2%B7%20Ciência%20de%20Dados&descAlignY=54&descSize=16" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:161b22,100:1f2937&height=150&section=header&text=%3C%20Heitor%20Carvalho%20Ferreira%20%2F%3E&fontColor=7C5CFF&fontSize=34&fontAlignY=38&desc=%24%20full-stack%20--cibersegurança%20--ciência-de-dados&descAlignY=60&descSize=15" width="100%" alt="Header"/>
 
-<p>
-  <strong>Estudante da Escola do Futuro de Goiás · Fundador da heisuscode</strong><br>
-  <em>Construindo sistemas eficientes que resolvem problemas reais.</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=650&lines=console.log(%22Estudante+da+Escola+do+Futuro+de+Goi%C3%A1s%22);console.log(%22Fundador+da+heisuscode%22);console.log(%22Sistemas+eficientes+que+resolvem+problemas+reais%22)" alt="Typing" />
 
-<p>
-  <a href="mailto:heitorcf10@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://linkedin.com/in/heitorcarvalhoferreira"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://wa.me/5561994613752"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
-  <a href="https://heisuscode.dev"><img src="https://img.shields.io/badge/heisuscode.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7C5CFF" alt="Site" /></a>
-</p>
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/Valparaíso_de_Goiás_–_GO-0d1117?style=flat-square&logo=googlemaps&logoColor=7C5CFF" alt="Localização" />
-  <img src="https://img.shields.io/badge/Aberto_a_remoto,_híbrido_ou_presencial-0d1117?style=flat-square&logo=briefcase&logoColor=1f6feb" alt="Disponibilidade" />
-</p>
+<a href="mailto:heitorcf10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/heitorcarvalhoferreira"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://wa.me/5561994613752"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" alt="WhatsApp" /></a>
+&nbsp;
+<a href="https://heisuscode.dev"><img src="https://img.shields.io/badge/HEISUSCODE.DEV-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Site" /></a>
+&nbsp;
+<a href="https://github.com/Ferre1ra10"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍%20Valpara%C3%ADso%20de%20Goi%C3%A1s%20–%20GO-1F6FEB?style=for-the-badge&labelColor=0d1117" height="32" alt="Localização" />
+&nbsp;
+<img src="https://img.shields.io/badge/💼%20Remoto%20•%20H%C3%ADbrido%20•%20Presencial-7C5CFF?style=for-the-badge&labelColor=0d1117" height="32" alt="Disponibilidade" />
+&nbsp;
+<img src="https://img.shields.io/badge/🟢%20Dispon%C3%ADvel%20para%20oportunidades-2EA043?style=for-the-badge&labelColor=0d1117" height="32" alt="Status" />
 
 </div>
 
