@@ -1,106 +1,115 @@
-<h1 align="center">Heitor Carvalho Ferreira</h1>
-<p align="center">
-  <b>Full Stack Developer</b> &nbsp;·&nbsp; <b>Cybersecurity</b> &nbsp;·&nbsp; <b>Artificial Intelligence</b>
-</p>
-<p align="center">
-  Building efficient systems that solve real problems.
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/heitorcarvalhoferreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:heitorcf10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/5561994613752"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://heisuscode.dev"><img src="https://img.shields.io/badge/heisuscode.dev-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
-</p>
+<div align="center">
+  <h1>HEITOR CARVALHO FERREIRA</h1>
 
----
+  <p>
+    <strong>Estudante da Escola do Futuro de Goiás | Fundador da heisuscode</strong><br>
+    <em>Construindo sistemas eficientes que resolvem problemas reais.</em>
+  </p>
+</div>
 
-## About Me
+<br>
 
-|    |                                                                                |
-| :- | :----------------------------------------------------------------------------- |
-| 🎓 | Student at **Escola do Futuro de Goiás**, in the **Jornada para o Futuro** program |
-| 🚀 | Founder of **HeisusCode** — web solutions and systems for businesses               |
-| 🌍 | International experience in **London, England**                             |
-| 🇬🇧 | Exchange student at **University of Sussex** (Falmer) through **Goiás pelo Mundo** — certified **intermediate English** |
-| 🏆 | Competitor in **CEIA Goiás Artificial Intelligence Championship**            |
-| 📍 | Valparaíso de Goiás – GO · open to **remote, hybrid or on-site** work   |
-| 🎯 | Focus on real systems, applied AI and digital security                          |
+<img align="right" src="A.png" alt="Ilustração do Setup" width="420"/>
 
----
+### 👨‍💻 Sobre
 
-## Technologies
+Olá! Meu nome é Heitor Carvalho Ferreira. Sou participante do programa **Jornada para o Futuro**, cursando Desenvolvimento Web, Cibersegurança e Ciência de Dados, e fundador da **heisuscode**. Realizei um intercâmbio acadêmico na Inglaterra, na University of Sussex, com certificação de **inglês intermediário**, e atualmente busco minha primeira oportunidade na área de tecnologia.
 
-**Frontend**
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 📚 Estudando
+<img src="https://img.shields.io/badge/Cibersegurança-151515?style=for-the-badge" alt="Cibersegurança" /> <img src="https://img.shields.io/badge/Ciência_de_Dados-151515?style=for-the-badge" alt="Ciência de Dados" /> <img src="https://img.shields.io/badge/Inteligência_Artificial-151515?style=for-the-badge" alt="IA" /> <img src="https://img.shields.io/badge/Cloud_Computing-151515?style=for-the-badge" alt="Cloud" />
 
-**Backend & Data**
+<br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+### 💻 Principais habilidades
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,python,tailwind" alt="Skills" />
 
-**Tools**
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=vscode,git,github,sqlite,postgres,linux,npm,ps" alt="Tools" />
 
-**Currently Learning**
+<br>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
+### ✉️ Contato
+<a href="mailto:heitorcf10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://linkedin.com/in/heitorcarvalhoferreira"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://wa.me/5561994613752"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="https://heisuscode.dev"><img src="https://img.shields.io/badge/HEISUSCODE.DEV-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
 
----
+<br clear="all"/>
 
-## Areas of Expertise
+<br>
 
-| Area             | What I Do                                          |
-| :--------------- | :----------------------------------------------------- |
-| 🌐 **Web**       | Complete web systems, from frontend to API               |
-| 📊 **Data**     | Data cleaning, treatment and analysis with Python, Pandas and SQL |
-| 🤖 **AI**        | Artificial intelligence applied to real projects       |
-| 🔐 **Security** | Digital security and development best practices    |
-| ⚙️ **Automation** | Process automation and system integration      |
+### 🚀 Projetos Desenvolvidos
 
----
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🖥️ HeisusCode</h3>
+      <p><strong>Desenvolvimento Web e Cibersegurança</strong></p>
+      <p align="left">Soluções web e sistemas sob medida para empresas, do frontend à API, com foco em performance, segurança e presença digital profissional.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🏥 Sistema de Gestão Hospitalar</h3>
+      <p><strong>Plataforma Full Stack (TCC — em desenvolvimento)</strong></p>
+      <p align="left">Sistema de gestão hospitalar com módulo de agendamento de consultas e controle financeiro, voltado à organização de dados clínicos e automação de processos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💰 MoneyControl</h3>
+      <p><strong>Gestão Financeira Pessoal</strong></p>
+      <p align="left">Aplicação para controle de finanças pessoais, com registro de receitas e despesas e visualização clara dos gastos. Construída em React e TypeScript.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 JARVIS</h3>
+      <p><strong>Assistente de IA Personalizado</strong></p>
+      <p align="left">Assistente de inteligência artificial próprio, desenvolvido em Python, com foco em automação de tarefas e integração de sistemas do dia a dia.</p>
+    </td>
+  </tr>
+</table>
 
-## Featured Projects
+<br>
 
-| Project           | Description                                        | Stack               |
-| :---------------- | :----------------------------------------------- | :------------------ |
-| **HeisusCode**    | Web development and cybersecurity for businesses | React · Node.js     |
-| **Hospital Management System** | Hospital management with scheduling and financial module (TCC — in development) | Full Stack |
-| **MoneyControl**  | Personal finance management application           | React · TypeScript  |
-| **JARVIS**        | Custom AI Assistant                     | Python              |
+### 💼 Experiências
 
-<p align="center">
-  <a href="https://github.com/Ferre1ra10?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
-  <img src="https://img.shields.io/github/followers/Ferre1ra10?style=for-the-badge&logo=github&label=Followers&labelColor=181717&color=7C5CFF" alt="Followers">
-</p>
+Na visão geral abaixo você encontrará minha trajetória mais recente:
 
----
+<br>
 
-## Education and Certifications
+[<img align="left" height="94px" alt="Inglaterra" src="https://flagcdn.com/w160/gb.png"/>](#)
+**Intercâmbio Internacional** <br>
+[**University of Sussex Brighton**](#)  <br>
+Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês Intermediário`, `Tecnologia`<br>
+Local: [Inglaterra]()
+<br><br><br>
 
-| Certification                                                                 | Completion   |
-| :----------------------------------------------------------------------- | :---------- |
-| Technical Diploma in **Web Development (Full Stack)**, **Cybersecurity** and **Security & Hosting** — Escola do Futuro de Goiás | 10/20/2026 |
-| Technical Diploma in **Data Science** — Escola do Futuro de Goiás               | 06/01/2027  |
-| **Intermediate English** — University of Sussex, Falmer (England)      | Completed   |
-| **DIO Certifications** in programming and development                    | Available on LinkedIn |
+[<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
+**Técnico em Desenvolvimento Web e Cibersegurança** <br>
+[**Escola do Futuro de Goiás**](#) • Cursando <br>
+Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de Programação`<br>
+Projetos em destaque: [HeisusCode]()
+<br><br><br>
 
----
+[<img align="left" height="94px" alt="DIO" src="DIO.png"/>](https://www.dio.me/)
+**Bootcamp** <br>
+[**DIO**](https://www.dio.me/) • Formação <br>
+Linguagens & Tecnologias: `TypeScript`, `Node.js`, `JavaScript`, `Inteligência Artificial`<br>
+Projetos em destaque: [Certificações no LinkedIn]()
+<br><br><br>
 
-<p align="center">
-  <sub>Focused on creating technological solutions that generate real impact.</sub>
-</p>
+[<img align="left" height="94px" alt="Escola do Futuro" src="efg.png"/>](#)
+**Técnico em Ciência de Dados** <br>
+[**Escola do Futuro de Goiás**](#) • Cursando <br>
+Foco: `Python`, `Pandas`, `SQL`, `Análise e Tratamento de Dados`<br>
+Projetos em destaque: [Dashboards e Projetos de Gestão de Dados]()
+<br><br><br>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferre1ra10&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
+</div>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Linha colorida" width="100%" />
