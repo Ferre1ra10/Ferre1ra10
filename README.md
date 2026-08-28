@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:161b22,100:1f2937&height=150&section=header&text=%3C%20Heitor%20Carvalho%20Ferreira%20%2F%3E&fontColor=7C5CFF&fontSize=34&fontAlignY=38&desc=%24%20full-stack%20--cibersegurança%20--ciência-de-dados&descAlignY=60&descSize=15" width="100%" alt="Header"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=650&lines=console.log(%22Estudante+da+Escola+do+Futuro+de+Goi%C3%A1s%22);console.log(%22Fundador+da+heisuscode%22);console.log(%22Sistemas+eficientes+que+resolvem+problemas+reais%22)" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=7C5CFF&center=true&vCenter=true&width=750&height=55&lines=Heitor+Carvalho+Ferreira;Full+Stack+%C2%B7+Ciberseguran%C3%A7a;Full+Stack+%C2%B7+Ci%C3%AAncia+de+Dados" alt="Heitor Carvalho Ferreira" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=680&height=40&lines=console.log(%22Estudante+da+Escola+do+Futuro+de+Goi%C3%A1s%22);console.log(%22Fundador+da+heisuscode%22);console.log(%22Sistemas+eficientes+que+resolvem+problemas+reais%22)" alt="Typing" />
 
 <br><br>
 
