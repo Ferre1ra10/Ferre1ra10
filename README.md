@@ -100,7 +100,8 @@ objetivo:  primeira oportunidade em tecnologia
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🖥️ HeisusCode</h3>
+      <a href="https://heisuscode.dev"><img src="assets/heisuscode.png" alt="HeisusCode" width="120" /></a>
+      <h3>🖥️ <a href="https://heisuscode.dev">HeisusCode</a></h3>
       <p><em>Desenvolvimento Web e Cibersegurança</em></p>
       <p align="left">Soluções web e sistemas sob medida para empresas, do frontend à API, com foco em performance, segurança e presença digital profissional.</p>
       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -148,6 +149,13 @@ Na visão geral abaixo você encontrará minha trajetória mais recente:
 
 <br>
 
+[<img align="left" height="94px" alt="HeisusCode" src="assets/heisuscode.png"/>](https://heisuscode.dev)
+**Fundador · Desenvolvimento Web** <br>
+[**HeisusCode**](https://heisuscode.dev) • Atual <br>
+Foco: `Sites e Sistemas Web`, `Frontend & APIs`, `Performance`, `Segurança`<br>
+Site: [heisuscode.dev](https://heisuscode.dev)
+<br><br><br>
+
 [<img align="left" height="94px" alt="Inglaterra" src="https://flagcdn.com/w160/gb.png"/>](#)
 **Intercâmbio Internacional** <br>
 [**University of Sussex Brighton**](#)  <br>
@@ -159,7 +167,7 @@ Local: [Inglaterra]()
 **Técnico em Desenvolvimento Web e Cibersegurança** <br>
 [**Escola do Futuro de Goiás**](#) • Cursando <br>
 Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de Programação`<br>
-Projetos em destaque: [HeisusCode]()
+Projetos em destaque: [HeisusCode](https://heisuscode.dev)
 <br><br><br>
 
 [<img align="left" height="94px" alt="Cisco" src="assets/cisco.png"/>](https://www.netacad.com/)
