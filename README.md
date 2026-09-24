@@ -100,7 +100,6 @@ objetivo:  primeira oportunidade em tecnologia
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://heisuscode.dev"><img src="assets/heisuscode.png" alt="HeisusCode" width="120" /></a>
       <h3>🖥️ <a href="https://heisuscode.dev">HeisusCode</a></h3>
       <p><em>Desenvolvimento Web e Cibersegurança</em></p>
       <p align="left">Soluções web e sistemas sob medida para empresas, do frontend à API, com foco em performance, segurança e presença digital profissional.</p>
