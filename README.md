@@ -162,7 +162,7 @@ Linguagens & Tecnologias: `Desenvolvimento Web`, `Cibersegurança`, `Lógica de 
 Projetos em destaque: [HeisusCode]()
 <br><br><br>
 
-[<img align="left" height="94px" alt="Cisco" src="assets/cisco.svg"/>](https://www.netacad.com/)
+[<img align="left" height="94px" alt="Cisco" src="assets/cisco.png"/>](https://www.netacad.com/)
 **Digital Safety and Security Awareness** <br>
 [**Cisco Networking Academy**](https://www.netacad.com/) • Certificado (set/2026) <br>
 Foco: `Segurança Digital`, `Conscientização em Cibersegurança`, `Operações Cibernéticas`<br>
