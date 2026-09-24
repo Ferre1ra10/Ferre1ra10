@@ -155,7 +155,7 @@ Foco: `Sites e Sistemas Web`, `Frontend & APIs`, `Performance`, `Segurança`<br>
 Site: [heisuscode.dev](https://heisuscode.dev)
 <br><br><br>
 
-[<img align="left" height="94px" alt="Inglaterra" src="https://flagcdn.com/w160/gb.png"/>](#)
+[<img align="left" height="94px" alt="University of Sussex" src="assets/sussex.png"/>](#)
 **Intercâmbio Internacional** <br>
 [**University of Sussex Brighton**](#)  <br>
 Foco: `Imersão Acadêmica`, `Visão Global`, `Inglês Intermediário`, `Tecnologia`<br>
