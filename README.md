@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
 </a>
 &nbsp;
+<a href="https://www.instagram.com/heisuscode/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram" />
+</a>
+&nbsp;
 <a href="https://wa.me/5561994613752">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" alt="WhatsApp" />
 </a>
